@@ -12,6 +12,6 @@ total_hours = middle_hours + closing_hours
 
 overall_pay = total_hours * RATE_OF_PAY
 
-print(f"Your total hours worked {total_hours}")
+print(f"Your total hours worked: {total_hours}")
 print(f"Your pay is £{overall_pay:.2f}")
 
